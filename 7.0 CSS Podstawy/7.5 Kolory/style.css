@@ -1,0 +1,13 @@
+p {
+    color: green;
+    <!-- lub -->
+    color: rgb(255,0,0);
+    <!-- lub -->
+    color: rgba(255,0,0,0.5);
+    <!-- lub -->
+    color: #00ff00;
+    <!-- lub -->
+    color: hsl(0,100%,50%);
+    <!-- lub -->
+    color: hsla(0,100%,50%, 0.5);
+}
