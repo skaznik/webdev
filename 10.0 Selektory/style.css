@@ -1,0 +1,31 @@
+/* do wszystkich elemetów
+* {
+    border: 3px solid red;
+}*/
+/* do id
+#jeden {
+    border: 3px solid red;
+}*/
+
+/* do klasy
+.dwa {
+    border: 3px solid red;
+}*/
+/* dla elemtów - dzieci
+#duze-pudelko > div {
+    border: 3px solid red;
+}*/
+
+/* do wszystkich elemetów w div
+#duze-pudelko div {
+    border: 3px solid red;
+}*/
+
+/* dla kolejnego
+.trzy + div {
+    border: 3px solid red;
+}*/
+
+.trzy ~ div {
+    border: 3px solid red;
+}
